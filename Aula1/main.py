@@ -1,4 +1,4 @@
-# Primeiro jogo python
+# Primeiro jogo Curso python módulo games
 
 import pygame
 from random import randint
